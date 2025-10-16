@@ -1,0 +1,19 @@
+/**
+ * @package 	WordPress
+ * @subpackage 	Printpress
+ * @version 	1.0.0
+ * 
+ * Yith WooCommerce Ajax Search Responsive CSS Rules
+ * Created by CMSMasters
+ * 
+ */
+@media only screen {
+  /*-------------------------------------------------------------------------*/
+  /* Tablet Monitor
+/*-------------------------------------------------------------------------*/
+}
+@media only screen and (max-width: 1024px) {
+  .yith-ajaxsearchform-container {
+    outline: none;
+  }
+}
